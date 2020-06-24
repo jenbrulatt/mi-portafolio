@@ -1,0 +1,34 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
+}
+
+.navbar {
+  background-color: #660066;
+}
+
+header {
+  background-image: url('../img/bg_hero.png');
+  /* background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left; */
+}
+
+.logo-section {
+  padding-left: 10rem;
+}
+
+.card-section {
+  background-color: #660066;
+  height: 61.375rem;
+}
+
+#text-section {
+  line-height: 2rem;
+}
+
+footer {
+  background-color: #660066;
+  height: 13.8125rem;
+  font-family: 'Oswald', sans-serif;
+}
